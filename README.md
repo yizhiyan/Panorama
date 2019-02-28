@@ -42,8 +42,9 @@ loading_img：（默认值 为null）loading图片的路径。
 loading_html：（默认值 为null）html加载器（添加到容器中的元素或字符串）。
 size：（默认值为null）全景图容器的最终尺寸，例如{width: 500, height: 300}。
 onready：（默认值为null）全景图准备好并且第一张图片展示出来后的回调函数。
- 
-方法介绍
+```
+## 方法介绍
+```
 addAction()：添加事件（插件没有提供执行事件的方法，似乎是提供给插件内部使用的）。
 fitToContainer()：调整全景图容器大小为指定大小。
 getPosition()：获取坐标经纬度。
