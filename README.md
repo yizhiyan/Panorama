@@ -1,6 +1,7 @@
 # Panorama
 全景图，html全景图，使用photo-sphere-viewer制作制作
 ## API
+(```)
 panorama：（必选）全景图的路径。
 container：（必选）放置全景图的容器。
 autoload：（默认为true）true为自动加载全景图，false为迟点加载全景图（通.过load方法）。
@@ -58,3 +59,4 @@ toggleStereo()：是否开启立体效果（可用于WebVR哦）。
 zoom(level)：设置缩放级别。
 zoomIn()：放大。
 zoomOut()：缩小。
+(```)
