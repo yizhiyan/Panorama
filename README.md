@@ -1,5 +1,5 @@
 # Panorama
-全景图，html全景图，使用photo-sphere-viewer制作制作,具体内容看地址[博客介绍](https://www.cnblogs.com/alantao/p/7905030.html)
+全景图，html全景图，使用photo-sphere-viewer制作制作,具体内容看[360°全景图制作](https://www.cnblogs.com/alantao/p/7905030.html)
 ## API
 ```
 panorama：（必选）全景图的路径。
